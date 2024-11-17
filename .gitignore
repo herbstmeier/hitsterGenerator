@@ -1,0 +1,8 @@
+*.pdf
+__pycache__
+build
+dist
+*.exe
+*.spec
+*.db
+.cache
